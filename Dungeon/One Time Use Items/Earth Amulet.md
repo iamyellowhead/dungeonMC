@@ -1,0 +1,1 @@
+(Removes the Slowness from walking on Moss)

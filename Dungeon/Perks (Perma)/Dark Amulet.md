@@ -1,0 +1,1 @@
+(Removes the Fog effect, upgradable)
