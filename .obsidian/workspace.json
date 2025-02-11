@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dungeon/Custom Ores/Ores.md",
+                "file": "Dungeon/Perks (Perma)/Tool Amulet Sword.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ores"
+              "title": "Tool Amulet Sword"
             }
           }
         ]
@@ -169,5 +169,15 @@
     }
   },
   "active": "a9922b3fabcd109d",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Dungeon/Perks (Perma)/Tool Amulet Pickaxe.md",
+    "Dungeon/Perks (Perma)/Inventory Amulet.md",
+    "Dungeon/Perks (Perma)/Dark Amulet.md",
+    "Dungeon/Perks (Perma)/Air Amulet.md",
+    "Dungeon/One Time Use Items/Water Amulet.md",
+    "Dungeon/One Time Use Items/Sand Amulet.md",
+    "Dungeon/One Time Use Items/Electrical Amulet.md",
+    "Dungeon/One Time Use Items/Earth Amulet.md",
+    "Dungeon/Custom Ores/Ores.md"
+  ]
 }
