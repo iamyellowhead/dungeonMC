@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dungeon/Perks (Perma)/Tool Amulet Sword.md",
+                "file": "Dungeon/One Time Quests/quests.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tool Amulet Sword"
+              "title": "quests"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dungeon/Custom Ores/Ores.md",
+                "file": "Dungeon/One Time Quests/quests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ores"
+              "title": "Backlinks for quests"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dungeon/Custom Ores/Ores.md",
+                "file": "Dungeon/One Time Quests/quests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ores"
+              "title": "Outgoing links from quests"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dungeon/Custom Ores/Ores.md",
+                "file": "Dungeon/One Time Quests/quests.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ores"
+              "title": "Outline of quests"
             }
           }
         ]
@@ -168,16 +168,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9922b3fabcd109d",
+  "active": "b64af1a8f804d097",
   "lastOpenFiles": [
-    "Dungeon/Perks (Perma)/Tool Amulet Pickaxe.md",
-    "Dungeon/Perks (Perma)/Inventory Amulet.md",
-    "Dungeon/Perks (Perma)/Dark Amulet.md",
-    "Dungeon/Perks (Perma)/Air Amulet.md",
-    "Dungeon/One Time Use Items/Water Amulet.md",
-    "Dungeon/One Time Use Items/Sand Amulet.md",
-    "Dungeon/One Time Use Items/Electrical Amulet.md",
-    "Dungeon/One Time Use Items/Earth Amulet.md",
+    "Dungeon/Cosmetics/cosmetics.md",
+    "Dungeon/One Time Quests/quests.md",
+    "Dungeon/Perks (Perma)/Tool Amulet Shovel.md",
+    "Dungeon/Perks (Perma)/Tool Amulet Sword.md",
     "Dungeon/Custom Ores/Ores.md"
   ]
 }
