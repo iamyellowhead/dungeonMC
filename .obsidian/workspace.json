@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dungeon/Custom Ores/Ores.md",
+                "file": "Dungeon/Perks (Perma)/Food Amulet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ores"
+              "title": "Food Amulet"
             }
           }
         ]
@@ -170,12 +170,17 @@
   },
   "active": "a9922b3fabcd109d",
   "lastOpenFiles": [
-    "Pasted image 20250213103935.png",
-    "Pasted image 20250213103925.png",
-    "Pasted image 20250213103910.png",
-    "Pasted image 20250213103900.png",
-    "Pasted image 20250213103839.png",
-    "Pasted image 20250213103820.png",
+    "Dungeon/Perks (Perma)/Inventory Amulet.md",
+    "Dungeon/Perks (Perma)/Tool Amulet Sword.md",
+    "Dungeon/One Time Quests/quests.md",
+    "Dungeon/Custom Ores/Ores.md",
+    "Dungeon/Custom Ores/ore images",
+    "Dungeon/Custom Ores/ore images/Pasted image 20250213103820.png",
+    "Dungeon/Custom Ores/ore images/Pasted image 20250213103935.png",
+    "Dungeon/Custom Ores/ore images/Pasted image 20250213103925.png",
+    "Dungeon/Custom Ores/ore images/Pasted image 20250213103910.png",
+    "Dungeon/Custom Ores/ore images/Pasted image 20250213103900.png",
+    "Dungeon/Custom Ores/ore images/Pasted image 20250213103839.png",
     "Dungeon/One Time Use Items/Earth Talisman.md",
     "Dungeon/One Time Use Items/Water Talisman.md",
     "Dungeon/One Time Use Items/Sand Talisman.md",
@@ -184,13 +189,10 @@
     "Dungeon/One Time Use Items/Electrical Talisman.md",
     "Dungeon/One Time Use Items/Fire Amulet.md",
     "Dungeon/One Time Quests/Untitled.md",
-    "Dungeon/One Time Quests/quests.md",
-    "Dungeon/Custom Ores/Ores.md",
     "Dungeon/Cosmetics/Custom fishing rods.md",
     "Dungeon/Cosmetics/Custom Hats.md",
     "Dungeon/Cosmetics/Custom Armor Sets.md",
     "Dungeon/Cosmetics/Self, plushies.md",
-    "Dungeon/Perks (Perma)/Tool Amulet Shovel.md",
-    "Dungeon/Perks (Perma)/Tool Amulet Sword.md"
+    "Dungeon/Perks (Perma)/Tool Amulet Shovel.md"
   ]
 }
