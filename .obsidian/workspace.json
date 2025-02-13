@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dungeon/One Time Use Items/Electrical Talisman.md",
+                "file": "Dungeon/Custom Ores/Ores.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Electrical Talisman"
+              "title": "Ores"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dungeon/One Time Use Items/Electrical Talisman.md",
+                "file": "Dungeon/One Time Use Items/Sand Talisman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Electrical Talisman"
+              "title": "Backlinks for Sand Talisman"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dungeon/One Time Use Items/Electrical Talisman.md",
+                "file": "Dungeon/One Time Use Items/Sand Talisman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Electrical Talisman"
+              "title": "Outgoing links from Sand Talisman"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dungeon/One Time Use Items/Electrical Talisman.md",
+                "file": "Dungeon/One Time Use Items/Sand Talisman.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Electrical Talisman"
+              "title": "Outline of Sand Talisman"
             }
           }
         ]
@@ -170,10 +170,18 @@
   },
   "active": "a9922b3fabcd109d",
   "lastOpenFiles": [
-    "Dungeon/One Time Use Items/Sand Talisman.md",
-    "Dungeon/One Time Use Items/Electrical Talisman.md",
-    "Dungeon/One Time Use Items/Water Talisman.md",
+    "Pasted image 20250213103935.png",
+    "Pasted image 20250213103925.png",
+    "Pasted image 20250213103910.png",
+    "Pasted image 20250213103900.png",
+    "Pasted image 20250213103839.png",
+    "Pasted image 20250213103820.png",
     "Dungeon/One Time Use Items/Earth Talisman.md",
+    "Dungeon/One Time Use Items/Water Talisman.md",
+    "Dungeon/One Time Use Items/Sand Talisman.md",
+    "Dungeon/Perks (Perma)/Food Amulet.md",
+    "Dungeon/Cosmetics/Self, Pets.md",
+    "Dungeon/One Time Use Items/Electrical Talisman.md",
     "Dungeon/One Time Use Items/Fire Amulet.md",
     "Dungeon/One Time Quests/Untitled.md",
     "Dungeon/One Time Quests/quests.md",
@@ -181,7 +189,6 @@
     "Dungeon/Cosmetics/Custom fishing rods.md",
     "Dungeon/Cosmetics/Custom Hats.md",
     "Dungeon/Cosmetics/Custom Armor Sets.md",
-    "Dungeon/Cosmetics/Self, Pets.md",
     "Dungeon/Cosmetics/Self, plushies.md",
     "Dungeon/Perks (Perma)/Tool Amulet Shovel.md",
     "Dungeon/Perks (Perma)/Tool Amulet Sword.md"

@@ -1,0 +1,1 @@
+(Able to carry more food, upgradable)

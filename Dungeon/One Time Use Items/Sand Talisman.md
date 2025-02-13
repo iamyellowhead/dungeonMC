@@ -1,1 +1,1 @@
-(Gives you 5 mins extra)
+(Gives you 5 mins extra) / (random chance of being good from -2min -> 5+min)
